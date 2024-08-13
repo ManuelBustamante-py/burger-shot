@@ -117,3 +117,15 @@ ion-note {
 ion-item.selected {
   --color: var(--ion-color-primary);
 }
+
+.label-item {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.label-item.active {
+  background-color: #3880ff; // Cambia esto por el color de tu preferencia
+  color: white; // Cambia esto por el color de texto deseado
+}
