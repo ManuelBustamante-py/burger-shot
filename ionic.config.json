@@ -1,0 +1,8 @@
+{
+  "name": "Burger Shot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "17954183"
+}
